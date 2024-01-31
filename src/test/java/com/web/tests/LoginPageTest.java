@@ -48,6 +48,6 @@ public class LoginPageTest extends BaseTest {
 			System.out.println("Not able to login................... ");
 		}
 		String verifyWelcomeText = dashboardPage.verifyWelcomeText();
-		Assert.assertEquals(verifyWelcomeText, "Welcome ptest20231");
+		Assert.assertEquals(verifyWelcomeText, "Welcome ptest2023");
 	}
 }

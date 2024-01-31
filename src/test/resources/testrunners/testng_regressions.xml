@@ -2,7 +2,7 @@
 
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name="STOTE Test Regression PW Suite" thread-count="5"
+<suite name="STOTE Test Regression PW Suite" thread-count="2"
 	parallel="tests" verbose="4">
 
 	<listeners>
